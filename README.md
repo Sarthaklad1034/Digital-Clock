@@ -1,5 +1,4 @@
-# Digital Clock Mini Project: Mastering CSS Designs and Colors
-
+# Digital Clock Mini Project: Mastering CSS Designs
 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 :
 This mini project serves as a fundamental yet engaging practice for web development enthusiasts. Designed to enhance skills in HTML and CSS, with the option to incorporate JavaScript for added functionality, this digital clock project is an ideal stepping stone for beginners.
 
