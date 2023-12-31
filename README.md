@@ -15,9 +15,3 @@ This mini project serves as a fundamental yet engaging practice for web developm
 This mini project is crafted not only for its intrinsic value as a clock but also as a canvas for creative expression. By incorporating HTML and CSS, participants can strengthen their foundational skills, gaining insights into effective design practices.
 
 𝗡𝗼𝘁𝗲 : This project is intended for educational and practice purposes. Developers are encouraged to customize, modify, and build upon the provided code to further enhance their web development capabilities.
-
-
-
-
-
-
